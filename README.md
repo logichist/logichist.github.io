@@ -1,7 +1,3 @@
----
-title: "없음"
----
-
 # logichist official home
 
 (주)헛소리 그룹 산하 (주)로지키스트 공식 홈페이지입니다.
