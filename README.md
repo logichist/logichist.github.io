@@ -1,3 +1,7 @@
+---
+title: "없음"
+---
+
 # logichist official home
 
 (주)헛소리 그룹 산하 (주)로지키스트 공식 홈페이지입니다.
@@ -26,6 +30,6 @@
 
 @haherhohu
 
-[회장에게 메일쓰기](haherhohu@gmail.com)
+[회장에게 메일쓰기](send:haherhohu@gmail.com)
 
 [헛소리 공식 블로그](https://hutsori.tistory.com)
