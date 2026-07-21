@@ -26,6 +26,6 @@
 
 @haherhohu
 
-[회장에게 메일쓰기](send:haherhohu@gmail.com)
+[회장에게 메일쓰기](mailto:haherhohu@gmail.com)
 
 [헛소리 공식 블로그](https://hutsori.tistory.com)
