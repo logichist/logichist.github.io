@@ -16,10 +16,16 @@
 
 [websquare for vscode](https://marketplace.visualstudio.com/items?itemName=haherhohu.websquare&ssr=false)
 
+- 설명: vscode에서 websquare xml 을 js 로 변환해주는 확장
+
 [md2hwpx](https://marketplace.visualstudio.com/items?itemName=haherhohu.md2hwpx)
+
+- 설명: vscode에서 markdown을 한글 파일로 출력해주는 확장
 
 ## 연락처
 
 @haherhohu
 
 [회장에게 메일쓰기](haherhohu@gmail.com)
+
+[헛소리 공식 블로그](https://hutsori.tistory.com)
